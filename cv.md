@@ -23,7 +23,7 @@ A little bit more you will see on my GitHub account [https://github.com/mighty-m
 
 ### **Code example**
 ```
-let a = [1, 1, 2]
+let a = [1, 2, 3]
 
 let newArray = a.filter(function(item, pos) {
   return a.indexOf(item) == pos;
